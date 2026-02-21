@@ -1,0 +1,87 @@
+# Core LLM & GenAI
+openai
+tiktoken
+transformers
+accelerate
+sentence-transformers
+huggingface-hub
+
+# LangChain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+
+# RAG & Vector Databases
+faiss-cpu
+chromadb
+pinecone-client
+weaviate-client
+qdrant-client
+milvus
+
+# Embeddings & NLP
+nltk
+spacy
+scikit-learn
+rank-bm25
+
+# Data Processing
+pandas
+numpy
+pyarrow
+polars
+openpyxl
+
+# API & Backend (Production)
+fastapi
+uvicorn
+pydantic
+python-multipart
+httpx
+aiofiles
+
+# Databases & Storage
+sqlalchemy
+psycopg2-binary
+pymongo
+redis
+
+# Azure / Cloud (important for enterprise GenAI)
+# azure-ai-openai
+# azure-identity
+# azure-storage-blob
+# azure-search-documents
+
+# LLM Evaluation & Guardrails
+ragas
+langsmith
+guardrails-ai
+deepeval
+
+# Observability & Logging
+loguru
+rich
+tqdm
+
+# Async & Utilities
+tenacity
+python-dotenv
+orjson
+
+# Document Loaders (RAG ingestion)
+pypdf
+pdfplumber
+docx2txt
+unstructured
+beautifulsoup4
+lxml
+
+# Image / Multimodal (optional but useful)
+pillow
+opencv-python
+
+# Notebook & Dev
+jupyter
+ipykernel
